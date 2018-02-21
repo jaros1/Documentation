@@ -1226,7 +1226,7 @@ Parameter            | Description
 
 ---
 
-#### actionOptionalHelpAll value, _[address]_
+#### OptionalHelpAll value, _[address]_
 
 Help download every new uploaded optional file to the site
 
